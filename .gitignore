@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated files
+*.mp3
+*.txt
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE files
+.vscode/
+.idea/
