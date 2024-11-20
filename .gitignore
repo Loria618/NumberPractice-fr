@@ -3,7 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-*.mp3
 # Ignore practice files
 *_practice.txt
 *_answer.txt
