@@ -9,6 +9,8 @@ A tool for generating French number listening practice materials.
 - Automatically generates answer sheets
 - Provides blank sheets for practice
 
+You can check the `samples` folder to see the generated files.
+
 ## Requirements
 
 ### Python Dependencies

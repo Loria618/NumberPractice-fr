@@ -1,0 +1,44 @@
+Audio file 'french_numbers_dictation.mp3' has been created.
+
+Two-digit numbers:
+1. 39 (trente-neuf)
+2. 64 (soixante-quatre)
+3. 81 (quatre-vingt-un)
+4. 17 (dix-sept)
+5. 29 (vingt-neuf)
+6. 54 (cinquante-quatre)
+7. 92 (quatre-vingt-douze)
+8. 56 (cinquante-six)
+9. 93 (quatre-vingt-treize)
+10. 45 (quarante-cinq)
+
+Four-digit numbers:
+1. 1242 (mille deux cent quarante-deux)
+2. 1240 (mille deux cent quarante)
+3. 1409 (mille quatre cent neuf)
+4. 1456 (mille quatre cent cinquante-six)
+5. 1843 (mille huit cent quarante-trois)
+6. 1335 (mille trois cent trente-cinq)
+7. 1669 (mille six cent soixante-neuf)
+8. 1160 (mille cent soixante)
+9. 2038 (deux mille trente-huit)
+10. 1613 (mille six cent treize)
+
+Phone numbers:
+1. 72-88-64-12-40
+2. 54-78-68-78-32
+3. 76-90-92-83-39
+4. 99-63-66-42-10
+5. 38-36-18-69-22
+6. 46-27-14-41-54
+7. 33-16-64-43-75
+8. 98-34-39-90-67
+9. 48-31-79-68-75
+10. 38-54-89-89-28
+
+Sentences:
+1. Il y a 74 personnes dans la salle
+2. Le train part à 19 heures 30
+3. Le château est construit en 1210
+4. Il y a 55 personnes dans la salle
+5. Le château est construit en 1427
