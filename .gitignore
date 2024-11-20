@@ -3,9 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Generated files
 *.mp3
-*.txt
+# Ignore practice files
+*_practice.txt
+*_answer.txt
+
+# Don't ignore requirements
+!requirements.txt
 
 # macOS system files
 .DS_Store
